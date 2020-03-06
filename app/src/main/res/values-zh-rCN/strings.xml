@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">第一項任務</string>
+    <string name="titleText">這是我的頭銜！</string>
+    <string name="messageText">這是我的信息！</string>
+    <string name="languageButton">中國</string>
+    <string name="messageButton">中國</string>
+    <string name="inputButton">進入</string>
+    <string name="checkButton">查</string>
+    <string name="languageToast1">世界，您好！</string>
+    <string name="languageToast2">錯誤</string>
+
+
+    <string-array name="languageList">
+        <item>英語</item>
+        <item>克羅地亞</item>
+        <item>斯洛伐克</item>
+        <item>捷克</item>
+        <item>中國</item>
+    </string-array>
+</resources>

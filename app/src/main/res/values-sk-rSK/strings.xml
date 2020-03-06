@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prvá úloha</string>
+    <string name="titleText">Toto je môj názov!</string>
+    <string name="messageText">Toto je moja správa!</string>
+    <string name="languageButton">Slovenský</string>
+    <string name="messageButton">Správa</string>
+    <string name="inputButton">Zadania</string>
+    <string name="checkButton">Skontrolovať</string>
+    <string name="languageToast1">Ahoj svet!</string>
+    <string name="languageToast2">Chyba</string>
+
+
+    <string-array name="languageList">
+        <item>Angličtina</item>
+        <item>Chorvátsky</item>
+        <item>Slovenský</item>
+        <item>Český</item>
+        <item>Čínsky</item>
+    </string-array>
+</resources>
